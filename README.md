@@ -21,3 +21,6 @@ It is also recommended to run the code on <strong>Jupyter Notebook</strong>.
 - scikit-learn
 - numpy
 - pandas
+### How to Start
+
+You should spend some time with the datasets on your own. Try to look for interesting relationships and information inside the tables. Once you are familiar with the data and information in there you can move on to the EDA tasks from us that will further help you to get familiar with the datasets. Afterward, you can move onto the data preparation and modeling steps. Make sure you have enough time to prepare you slides and presentation at the end.
